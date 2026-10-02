@@ -141,8 +141,8 @@ export default function VideoIntro({ scrollTargetId = 'next-section' }) {
         </div>
 
         <p className={styles.subtitle} ref={subtitleRef}>
-          <strong>CS &amp; Product Engineering student</strong> at SRM University AP,
-          shipping full-stack products with React, Node and a growing fluency in
+          <strong>CS &amp; Product Engineering Student</strong> at SRM University AP,
+          shipping full-stack products with Java, Sping Ecosystem, Python, React, Java Script and a growing fluency in
           AI-native development — one line, one system at a time.
         </p>
       </div>
